@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  SelectAddress
+//
+//  Created by Xcq on 16/5/8.
+//  Copyright © 2016年 YiXue. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <BaiduMapAPI_Map/BMKMapComponent.h> //引入地图功能所有的头文件
+#import <BaiduMapAPI_Search/BMKSearchComponent.h> //引入检索功能所有的头文件
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>//引入定位功能所有的头文件
+
+// 百度AppKey
+#define BMAppKey @"I596f7LGLmCTgNAdGZOIDRCIpnZtP2V9"
+
+#endif /* PrefixHeader_pch */
