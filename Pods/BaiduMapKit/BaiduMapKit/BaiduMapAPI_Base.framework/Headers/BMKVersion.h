@@ -810,5 +810,5 @@ UIKIT_STATIC_INLINE NSString* BMKGetMapApiVersion()
  *当前base组件版本 : 2.10.2
  *return  返回当前API base组件 的版本号
  */
-UIKIT_EXTERN NSString* BMKGetMapApiBaseComponentVersion();
+UIKIT_EXTERN NSString* BMKGetMapApiBaseComponentVersion(void);
 
